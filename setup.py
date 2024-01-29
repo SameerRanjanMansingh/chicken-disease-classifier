@@ -8,7 +8,11 @@ __version__  = "0.0.0"
 
 REPO_NAME = "chicken-disease-classifier"
 AUTHOR_USER_NAME = "SameerRanjanMansingh"
+<<<<<<< HEAD
 SRC_REPO = "cnnClassifier"
+=======
+SRC_REPO = "chicken-disease-classifier"
+>>>>>>> 86115ac4a0b177cda42c7c60a03d18b9e678a904
 AUTHOR_EMAIL = "sameerranjan0367@gmail.com"
 
 
@@ -22,6 +26,10 @@ setuptools.setup(
     project_urls={
         "Bug Tracker": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
+<<<<<<< HEAD
     package_dir={"": "src"},
+=======
+    package_dir={"", "src"},
+>>>>>>> 86115ac4a0b177cda42c7c60a03d18b9e678a904
     packages=setuptools.find_packages(where="src")
 )

@@ -14,4 +14,8 @@ types-pyYAML
 scipy
 Flask
 Flask-Cors
+<<<<<<< HEAD
 -e .
+=======
+# -e .
+>>>>>>> 86115ac4a0b177cda42c7c60a03d18b9e678a904

@@ -1,4 +1,5 @@
 # chicken-disease-classifier
+<<<<<<< HEAD
 
 
 
@@ -14,3 +15,5 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
+=======
+>>>>>>> 86115ac4a0b177cda42c7c60a03d18b9e678a904
