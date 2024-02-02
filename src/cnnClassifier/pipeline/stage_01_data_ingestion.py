@@ -1,3 +1,7 @@
+import sys
+sys.path.append(r'C:\workFiles\DS\cookie-cutter\chicken-disease-classifier')
+
+
 from src.cnnClassifier.config.configuration import ConfigurationManager
 from src.cnnClassifier.components.data_ingestion import Dataingestion
 from src.cnnClassifier import logger
